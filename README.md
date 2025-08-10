@@ -1,25 +1,25 @@
-# Informal Game Jam – Official Site 🎨🎮
+# 1-TOO JAM – Official Site 
 
-This repo contains the source code for the **official (but very chill) site** of our informal game jam.  
-It’s our little corner of the internet to share details, updates, and submissions for the jam.
+An informal game jam! </br>
+
+This repo contains the source code for the upcoming informal game jam.
+This is for anyone who is willing to kill time, while doing something productive during the term break.
 
 ## 📅 Jam Info
-- **Jam Name:** Informal Game Jam
+- **Jam Name:** One Too Jam
 - **Start Date:** August 16, 2025
-- **End Date:** TBD (because deadlines are fake)
-- **Type:** Just-for-fun, no prizes, all vibes
+- **End Date:** TBD 
 
 ## 🌐 About the Site
 The site will:
 - Post announcements and theme reveals
 - Showcase submissions
 - List rules, FAQs, and participant info
-- Store fun little extras like dev logs, memes, and progress shots
 
 ## 🛠 Tech Stack
-- **Frontend:** TBD (HTML/CSS/JS? React? Who knows…)
-- **Backend:** TBD (maybe none, maybe magic)
-- **Hosting:** TBD (GitHub Pages? Netlify? Hamster on a wheel?)
+- **Frontend:** HTML/CSS/JS
+- **Backend:** maybe none, maybe magic
+- **Hosting:** GitHub Pages
 
 ## 📂 Repo Structure
 - `public/` → static assets (images, icons, etc.)
@@ -28,7 +28,7 @@ The site will:
 - `README.md` → you’re reading it right now
 
 ## 🤝 Maintainers
-- The game jam crew
+- me! 
 
 ---
 
