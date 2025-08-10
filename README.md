@@ -1,34 +1,29 @@
-# 1-TOO JAM – Official Site 
+# 1 TOOO JAM – Official Site 
 
 An informal game jam! </br>
 
 This repo contains the source code for the upcoming informal game jam.
 This is for anyone who is willing to kill time, while doing something productive during the term break.
 
-## 📅 Jam Info
-- **Jam Name:** One Too Jam
+## Jam Info
+- **Jam Name:** One tooo jam
 - **Start Date:** August 16, 2025
 - **End Date:** TBD 
 
-## 🌐 About the Site
-The site will:
-- Post announcements and theme reveals
+## About the Site
+- Announcements and theme reveals
 - Showcase submissions
-- List rules, FAQs, and participant info
+- List rules and FAQs
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Frontend:** HTML/CSS/JS
 - **Backend:** maybe none, maybe magic
 - **Hosting:** GitHub Pages
 
-## 📂 Repo Structure
-- `public/` → static assets (images, icons, etc.)
-- `src/` → source code for the site
-- `styles/` → CSS or styling framework files
+## Repo Structure
+- `src/` → source code
+- - `src/images` → images
 - `README.md` → you’re reading it right now
-
-## 🤝 Maintainers
-- me! 
 
 ---
 
