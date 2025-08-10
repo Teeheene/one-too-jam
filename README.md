@@ -11,10 +11,9 @@ This is for anyone who is willing to kill time, while doing something productive
 - **End Date:** TBD 
 
 ## About the Site
-The site will:
-- Post announcements and theme reveals
+- Announcements and theme reveals
 - Showcase submissions
-- List rules, FAQs, and participant info
+- List rules and FAQs
 
 ## Tech Stack
 - **Frontend:** HTML/CSS/JS
