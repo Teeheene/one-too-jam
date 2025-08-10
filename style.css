@@ -53,6 +53,10 @@ body {
 	font-weight: bold;
 }
 
+.submissions {
+	color: lightgreen;
+}
+
 /* LOGO BANNER */
 
 .bannercontainer {
@@ -68,9 +72,18 @@ body {
 
 /* ARTICLE */
 
+.content {
+	outline: 2px solid black;
+	display:flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
 .articlecontainer {
 	display: flex;
-	justify-content: center;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;	
 	margin: 0px 10px 30px 10px;
 }
 
@@ -86,13 +99,22 @@ body {
 	padding: 20px;
 	background-color: #184f1a; 
 	border-radius: 8px;
-	margin-bottom: 5px;
 }
 
 #maincontainer .text {
 	padding: 20px 40px;
+	margin-top: 5px;
 	background-color: #236325;
 	border-radius: 8px;
+}
+
+/*FOOTER*/
+
+.footer {
+	display:flex;
+	padding: 10px;
+	justify-content: center;
+	margin-top: auto;
 }
 
 /* CUSTOM TEXT CLASSES*/
