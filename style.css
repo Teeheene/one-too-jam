@@ -62,7 +62,8 @@ body {
 }
 
 .bannerimage {
-	height: 600px;
+	display: flex;
+	width: 600vh;
 }
 
 /* ARTICLE */
@@ -70,12 +71,15 @@ body {
 .articlecontainer {
 	display: flex;
 	justify-content: center;
-	margin-bottom: 30px;
+	margin: 0px 10px 30px 10px;
 }
 
 #maincontainer {
 	width: 1000px;
 	color: white;
+	outline: 2px solid #184f1a;
+	padding: 4px;
+	border-radius: 8px;
 }
 
 #maincontainer .header {
