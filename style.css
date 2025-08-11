@@ -81,9 +81,8 @@ body {
 
 .articlecontainer {
 	display: flex;
-	flex-direction: column;
-	justify-content: space-between;
-	align-items: center;	
+	justify-content: center;
+	align-items: space-between;	
 	margin: 0px 10px 30px 10px;
 }
 
